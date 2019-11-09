@@ -1,0 +1,3 @@
+URL=jdbc:mysql://localhost/ipps
+user=ipps 
+password=000000
